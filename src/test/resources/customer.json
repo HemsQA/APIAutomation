@@ -1,0 +1,25 @@
+{
+    "createCustomer" :
+    [
+        {
+            "id" :1,
+            "cust_fName" : "Prakash",
+            "cust_lName" : "Patil",
+            "cust_billingAddress" : "Dhule",
+            "product_Name" : "IPhone",
+            "product_price" : 199.23,
+            "product_Discount" : 10,
+            "product_info" :"Iphone 15"
+        },
+        {
+            "id" :2,
+            "cust_fName" : "Himani",
+            "cust_lName" : "Shinde",
+            "cust_billingAddress" : "Pune",
+            "product_Name" : "Android",
+            "product_price" : 299.23,
+            "product_Discount" : 7,
+            "product_info" :"OnePlus"
+        }
+    ]
+}
